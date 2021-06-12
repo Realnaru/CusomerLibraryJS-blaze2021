@@ -1,5 +1,5 @@
-const {Customer} = require("../Customer");
-const {Address} = require("../Address");
+const {Customer} = require("../src/Customer");
+const {Address} = require("../src/Address");
 
 test("Should be able to create Customer", () => {
     const customer = new Customer();

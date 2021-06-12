@@ -1,5 +1,5 @@
-const {Address} = require("../Address");
-const {AddressValidator} = require("../AddressValidator");
+const {Address} = require("../src/Address");
+const {AddressValidator} = require("../src/AddressValidator");
 
 test("Should be able to create Address Validator", () => {
     const addressValidator = new AddressValidator();

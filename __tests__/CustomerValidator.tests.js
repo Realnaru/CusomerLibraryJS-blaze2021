@@ -1,6 +1,6 @@
-const {Customer} = require("../Customer");
-const {Address} = require("../Address");
-const {CustomerValidator} = require("../CusomerValidator");
+const {Customer} = require("../src/Customer");
+const {Address} = require("../src/Address");
+const {CustomerValidator} = require("../src/CusomerValidator");
 
 test("Should be able to create Customer Validator", () => {
     const customerValidator = new CustomerValidator();

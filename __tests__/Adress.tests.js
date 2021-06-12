@@ -1,4 +1,4 @@
-const {Address} = require("../Address");
+const {Address} = require("../src/Address");
 
 test ("Should be able to create Address", ()=> {
     const address = new Address();
