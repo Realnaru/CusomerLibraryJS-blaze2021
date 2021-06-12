@@ -33,6 +33,7 @@ test("Should be able to create Customer with params", () => {
         "Doe",
         addresses,
         "+79146316969",
+        "mail@gmail.com",
         notes,
         1000.5,
         date
