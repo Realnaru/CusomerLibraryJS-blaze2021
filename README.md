@@ -1,0 +1,1 @@
+[![codecov](https://codecov.io/gh/Realnaru/CusomerLibraryJS-blaze2021/branch/master/graph/badge.svg?token=XQ61PTYMR0)](https://codecov.io/gh/Realnaru/CusomerLibraryJS-blaze2021)
